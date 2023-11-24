@@ -225,5 +225,4 @@ class Solution {
     }
 }
 
-// Time Complexity: O(n^2) -> n*n matrix...
-// Space Complexity: O(n^2) -> n*n matrix > result
+
